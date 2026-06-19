@@ -16,8 +16,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>
-com.vietnamairlines.moplus.uat.lido</string>
+                <string>com.vietnamairlines.moplus.uat.lido</string>
                 <key>bundle-version</key>
                 <string>325.0.3</string>
                 <key>kind</key>
